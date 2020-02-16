@@ -1,7 +1,9 @@
 *{
 	margin: 0px;
 	padding: 0px;
-	text-decoration: 0px;
+}
+a{
+    text-decoration: 0px;	
 }
 h1,h2{
 	margin-top: 200px;
