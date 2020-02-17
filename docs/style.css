@@ -5,8 +5,10 @@
 a{
     text-decoration: 0px;	
 }
-h1,h2{
+h1{
 	margin-top: 200px;
+}
+h1,h2{
     text-align: center;
 }
 
